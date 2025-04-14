@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "W2AppAndMotion": {
+      "commandName": "Project",
+      "commandLineArgs": "TestAas\r\n"
+    }
+  }
+}
