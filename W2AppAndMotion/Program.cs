@@ -9,6 +9,7 @@ class Program
             Console.WriteLine($"Xin chào, {args[0]}!");
             Console.WriteLine("HELLO");
             Console.WriteLine("Bye");
+            Console.WriteLine("123");
         }
         else
         {
