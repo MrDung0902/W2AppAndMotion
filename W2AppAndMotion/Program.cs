@@ -7,6 +7,7 @@ class Program
         if (args.Length > 0)
         {
             Console.WriteLine($"Xin chào, {args[0]}!");
+            Console.WriteLine("HELLO");
         }
         else
         {
@@ -14,5 +15,6 @@ class Program
         }
 
         Console.ReadLine(); // Chờ nhấn phím
+
     }
 }
